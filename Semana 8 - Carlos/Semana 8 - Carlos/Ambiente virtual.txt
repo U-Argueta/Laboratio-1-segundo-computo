@@ -1,0 +1,2 @@
+(Temporal)  Set-ExecutionPolicy -ExecutionPolicy Bypass -Scope Process
+(Permanente) Set-ExecutionPolicy RemoteSigned -Scope CurrentUser
